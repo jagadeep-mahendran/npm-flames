@@ -7,7 +7,7 @@ const flames = require('npm-flames'); const result = flames('name1', 'name2'); c
 example 
 const flames = require('npm-flames');
 const result = flames('jagadeep', 'chiradep'); 
-console.log("srv"+result+"sfs");
+console.log(result);
 
 output
 Affection
