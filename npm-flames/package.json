@@ -1,0 +1,26 @@
+{
+  "name": "npm-flames",
+  "version": "1.0.5",
+  "description": "check flames for two person",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadeep-mahendran/npm-flames.git"
+  },
+  "keywords": [
+    "relation",
+    "npm-flames",
+    "flames",
+    "flames",
+    "game"
+  ],
+  "author": "Jagadeep mahendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagadeep-mahendran/npm-flames/issues"
+  },
+  "homepage": "https://github.com/jagadeep-mahendran/npm-flames#readme"
+}
